@@ -1,0 +1,5 @@
+{
+  "name": "Tesla MP3 to WAV Editor",
+  "description": "A simple in-browser tool to convert an MP3 lock sound to a Tesla-ready LockChime.wav file. Drag and drop your MP3, trim it, adjust the volume, and download.",
+  "requestFramePermissions": []
+}
